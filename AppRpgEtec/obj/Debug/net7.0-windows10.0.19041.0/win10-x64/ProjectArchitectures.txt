@@ -1,0 +1,1 @@
+D:\AppRpgEtec-main\AppRpgEtec\AppRpgEtec.csproj;x64
